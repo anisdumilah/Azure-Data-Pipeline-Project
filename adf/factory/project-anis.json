@@ -1,0 +1,9 @@
+{
+	"name": "project-anis",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65f27711-43f9-47e6-b4d3-a2854825f44f",
+		"tenantId": "92b9c102-f53e-403c-a0de-406664201252"
+	}
+}

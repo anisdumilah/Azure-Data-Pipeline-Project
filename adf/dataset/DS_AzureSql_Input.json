@@ -1,0 +1,19 @@
+{
+	"name": "DS_AzureSql_Input",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_AzureSqlDatabase",
+			"type": "LinkedServiceReference",
+			"parameters": {
+				"Server name": "anisdumilah",
+				"Database name": "anisdumilah",
+				"User name": "sqlanisdev2",
+				"Password": "azuresql-secret"
+			}
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
