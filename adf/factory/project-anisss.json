@@ -1,0 +1,9 @@
+{
+	"name": "project-anisss",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "244837c9-c454-4ee2-a5f3-5a0a0bb41d91",
+		"tenantId": "92b9c102-f53e-403c-a0de-406664201252"
+	}
+}
