@@ -1,9 +1,0 @@
-{
-	"name": "daviarge-df",
-	"location": "southeastasia",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "6932ee2a-6ca6-4a72-8be9-300d1b6c34ce",
-		"tenantId": "92b9c102-f53e-403c-a0de-406664201252"
-	}
-}
